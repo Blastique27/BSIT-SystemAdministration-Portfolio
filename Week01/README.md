@@ -48,19 +48,19 @@ Profile: [https://www.linkedin.com/in/blastique-carl-ivan-o-b6a2a5429/?skipRedir
 
 ### Git Installation
 
-[Insert screenshot here]
+[git-installed.png]
 
 ### Visual Studio Code Installation
 
-[Insert screenshot here]
+[vscode-installed.png]
 
 ### GitHub Account
 
-[Insert screenshot here]
+[github-profile.png]
 
 ### Other Installation/Configuration
 
-[Insert screenshot here]
+[linkedIn-profile.png]
 
 ---
 
