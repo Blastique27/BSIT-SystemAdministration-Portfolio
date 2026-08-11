@@ -1,55 +1,126 @@
+# Week 1 - Building My Professional Environment
 
-# Hi, I'm Carl Ivan Blastique 
+## Student Information
 
-## About Me
+- **Name:** Carl Ivan O. Blastique
+- **Course:** BSIT 
+- **Section:** 3B
+- **Date:** August  7, 2026
 
-I am a BSIT student interested in system administration,
-networking, cybersecurity, and information technology.
+---
 
-I am currently developing my technical skills through
-academic activities, laboratory exercises, and personal projects.
+## Objectives
 
-## Career Goals
+- Build my professional GitHub environment.
+- Create and organize my GitHub portfolio.
+- Learn how to use Git and GitHub.
+- Set up professional accounts for my IT career.
+- Begin documenting my System Administration and Maintenance activities.
 
-My goal is to build a career in IT, particularly in
-system administration, networking, cybersecurity, or cloud computing.
+---
 
-I want to develop strong technical and problem-solving skills
-and gain practical experience working with IT infrastructure.
+## Software Installed
 
-## Current Skills
+The following software/tools were installed or configured:
 
-- Basic computer troubleshooting
-- Windows operating systems
-- Basic networking
-- Git and GitHub
-- Microsoft Office
-- Basic system administration
+- Git
+- Visual Studio Code
+- GitHub
 
-## Technologies I Want to Learn
+---
 
-- Linux System Administration
-- Windows Server
-- Cisco Networking
-- Cloud Computing
-- Docker
-- Cybersecurity
-- Virtualization
+## Professional Accounts
 
-## Certifications
 
-- Currently working toward relevant IT certifications.
+### GitHub
 
-## Academic Projects
+Profile: [https://github.com/Blastique27]
 
-### System Administration and Maintenance
+Portfolio: [https://github.com/Blastique27/Blastique27/blob/main/README.md]
 
-Semester-long portfolio for ITEP 414 – System Administration
-and Maintenance.
+### LinkedIn
 
-Repository:
-[BSIT-SystemAdministration-Portfolio]((https://github.com/Blastique27/BSIT-SystemAdministration-Portfolio/edit/main/Week01/README.md))
+Profile: [https://www.linkedin.com/in/blastique-carl-ivan-o-b6a2a5429/?skipRedirect=true]
 
-## Contact Information
+---
 
-Email: [carlivanblastique7@gmail.com]
+## Installation Screenshots
+
+### Git Installation
+
+[Insert screenshot here]
+
+### Visual Studio Code Installation
+
+[Insert screenshot here]
+
+### GitHub Account
+
+[Insert screenshot here]
+
+### Other Installation/Configuration
+
+[Insert screenshot here]
+
+---
+
+## Challenges Encountered
+
+### 1. Git Installation
+
+I initially had difficulty confirming whether Git was properly
+installed on my computer. I solved this by opening Git Bash and
+using the Git version command to verify the installation.
+
+### 2. GitHub Repository Setup
+
+I was initially unfamiliar with creating repositories and
+organizing folders on GitHub. I solved this by following the
+GitHub repository creation process and learning how to create
+and organize the Week01 to Week15 folders.
+
+### 3. Git and GitHub Connection
+
+I had difficulty understanding how local Git repositories
+connect to GitHub. I learned that changes need to be staged,
+committed, and pushed to upload them to the remote repository.
+
+---
+
+## Reflection
+
+This week's activity helped me understand the importance of
+building a professional environment as an Information Technology
+student. I learned how to create and organize a GitHub repository
+that can be used to document my academic activities and future
+projects. I also became more familiar with GitHub as a platform
+for storing and sharing technical work.
+
+Setting up software such as Git and Visual Studio Code helped me
+understand some of the tools commonly used by IT professionals.
+I learned that Git can be used to track changes to files, while
+GitHub provides an online platform where repositories can be
+stored and shared. Understanding the relationship between Git,
+commits, and GitHub will be useful when working on projects with
+other developers and system administrators.
+
+Creating a professional GitHub profile also made me realize that
+an online technical portfolio can help demonstrate my skills and
+experience. Instead of simply listing skills on a resume, I can
+use my repository to show actual laboratory activities,
+documentation, and projects that I have completed.
+
+Overall, this activity gave me a foundation for developing my
+professional online presence. The skills I learned will support
+my future development as a System Administrator because
+documentation, organization, version control, and technical
+communication are important in managing IT systems and projects.
+
+---
+
+## References
+
+- GitHub Documentation
+- Git Documentation
+- Visual Studio Code Documentation
+
